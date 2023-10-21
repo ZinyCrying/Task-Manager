@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Task-Manager",
+    "slug": "snack-d15ae04a-56ac-4dfd-9010-4d98b7d8569d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.a_sharma.snackd15ae04a56ac4dfd90104d98b7d8569d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e89218c2-1f99-4665-b07f-4de08d555756"
+      }
+    }
+  }
+}
